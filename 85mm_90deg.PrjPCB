@@ -84,83 +84,43 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Output\85mm_45deg\85mm_45deg.DRR
+DocumentPath=Output\85mm_90deg\85mm_90deg.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Output\85mm_45deg\85mm_45deg.EXTREP
+DocumentPath=Output\85mm_90deg\85mm_90deg.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GBL
+DocumentPath=Output\85mm_90deg\85mm_90deg.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GBS
+DocumentPath=Output\85mm_90deg\85mm_90deg.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GM
+DocumentPath=Output\85mm_90deg\85mm_90deg.GM
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GM1
+DocumentPath=Output\85mm_90deg\85mm_90deg.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GTL
+DocumentPath=Output\85mm_90deg\85mm_90deg.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GTS
+DocumentPath=Output\85mm_90deg\85mm_90deg.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Output\85mm_45deg\85mm_45deg.LDP
+DocumentPath=Output\85mm_90deg\85mm_90deg.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Output\85mm_45deg\85mm_45deg.REP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Output\85mm_45deg\85mm_90deg.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Output\85mm_45deg\85mm_90deg.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Output\85mm_45deg\85mm_90deg.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Output\85mm_45deg\85mm_90deg.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Output\85mm_45deg\85mm_90deg.GM
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Output\85mm_45deg\85mm_90deg.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Output\85mm_45deg\85mm_90deg.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Output\85mm_45deg\85mm_90deg.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Output\85mm_45deg\85mm_90deg.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Output\85mm_45deg\85mm_90deg.REP
+DocumentPath=Output\85mm_90deg\85mm_90deg.REP
 DItemRevisionGUID=
 
 [Parameter1]
@@ -727,36 +687,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
